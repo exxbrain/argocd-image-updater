@@ -14,7 +14,7 @@ that are managed by
     There will be (probably a lot of) breaking changes from release to
     release as development progresses until version 1.0. We will do our
     best to indicate any breaking change and how to un-break it in the
-    [Changelog](https://github.com/argoproj-labs/argocd-image-updater/CHANGELOG.md)
+    [Changelog](https://github.com/argoproj-labs/argocd-image-updater/tree/master/CHANGELOG.md)
 
 ## Overview
 
